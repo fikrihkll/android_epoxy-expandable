@@ -1,4 +1,4 @@
-# Simple Expandable Mechanisme with Epoxy AirBNB
+# Simple Expandable Mechanism with Epoxy AirBNB
 
 This repo is made for presentation and comparison purpose.
 
